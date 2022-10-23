@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rncrud",
+    "slug": "rncrud",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rncrud"
+}
